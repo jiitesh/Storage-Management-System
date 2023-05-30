@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-book-Storage-System
 A library Management System developed using advanced AVL tree and Hashing index in C++
 
 The project deals with a library management system wherein a customer can borrow/return 
